@@ -59,7 +59,11 @@ ul li a {
 
 /* intro */
 
-
+.us {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
 .intro {
     background-size: cover;
